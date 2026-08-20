@@ -1,6 +1,6 @@
 Hi, I'm Delroy McPherson
 
-I'm a digital marketing and e-commerce professional with hands-on experience building websites and interactive front-end projects using HTML, CSS, and JavaScript. I enjoy combining creative design with practical technology to build polished, user-friendly digital experiences. I'm currently expanding my software development skills through projects focused on e-commerce, interactive tools, and responsive web design.
+I'm a communications, content, and digital experience professional with hands-on experience across content strategy, digital marketing, website management, and e-commerce. Alongside my communications background, I build interactive front-end projects using HTML, CSS, and JavaScript, combining content, design, and technology to create polished, user-friendly digital experiences. I'm continuing to strengthen my technical skills through projects focused on web development, e-commerce, responsive design, and interactive tools.
 
 <br>
 
